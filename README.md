@@ -1,5 +1,6 @@
 # whosThatCricketer
-Evolv challenge<br<
+Evolv challenge<br>
+<h1>Use data_processing.ipynb file to access the code</h1>
 <h3>for this challenge i used indian cricketer dataset from kaggle</h3><br>
 
 For this i created a hybrid model containing cnn and ann. cnn is used for detecting features and scaling down the image for better prediction.<br>
