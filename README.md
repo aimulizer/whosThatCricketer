@@ -12,4 +12,4 @@ should be able to find who is that cricketer.<br>
 another use case is that we can use webcam for feeding the images and ultimately prdicting how similar the image is to a part5icular cricketer.
 
 <h2>here is the test case for the image</h2>
-<img src="virat_kohli.jpg" alt="test image" style="width:42px;height:42px;">
+<img src="test_from_computer.jpg" alt="test image" style="width:42px;height:42px;">
